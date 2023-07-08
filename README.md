@@ -1,7 +1,20 @@
 ### Hi there 👋
+<img align="center" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=scoful&include_all_commits=true&count_private-true&custom_title=scoful'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scoful&layout=compact">
+You are my ![Visitor Count](https://profile-counter.glitch.me/scoful/count.svg)th visitor
+
+<br/>
+<br/>
+
+
+<div align="left">
+<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=scoful&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api?username=scoful&show_icons=true&theme=cobalt" align="center" />
+</div>  
+
+<br/>  
+
+
+
